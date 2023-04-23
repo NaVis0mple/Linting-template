@@ -10,3 +10,8 @@ linting-template@1.0.0 /home/linux/repos/Linting-template <br>
 ├── prettier@2.8.8<br>
 ├── snazzy@9.0.0<br>
 └── standard@17.0.0<br>
+---------------------------------------------------
+npx standard |snazzy <br>
+npx standard --fix <br>
+npx prettier test.js --check<br>
+npx prettier test.js --write<br>
