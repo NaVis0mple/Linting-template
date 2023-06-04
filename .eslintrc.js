@@ -3,10 +3,7 @@ module.exports = {
     browser: true,
     es2021: true
   },
-  extends: [
-    'standard',
-    'prettier'
-  ],
+  extends: ['standard','prettier'],
   overrides: [
   ],
   parserOptions: {
